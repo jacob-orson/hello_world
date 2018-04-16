@@ -1,0 +1,21 @@
+commit 8f06392cd6c98e6672ecb1b18e81bd42dfe3469f
+Author: Jacob <jacob_orson@my.uri.edu>
+Date:   Mon Apr 16 15:24:24 2018 -0400
+
+    Cedar Branch Hello
+    
+    Hello cedar branch
+
+commit e630b7157e65be3142cd9a433fc84fe9a6893d1d
+Author: Jacob <jacob_orson@my.uri.edu>
+Date:   Mon Apr 16 15:16:25 2018 -0400
+
+    Name and About Sections
+    
+    I added my name as the author and wrote an about section for this repository.
+
+commit 5d636ba2762df4ce09ba9abb93b77c47f736ba82
+Author: Jacob <jacob_orson@my.uri.edu>
+Date:   Mon Apr 16 14:14:26 2018 -0400
+
+    Initial commit
